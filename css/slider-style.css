@@ -1,0 +1,11 @@
+.demo {
+
+    max-width:750px;
+}
+.demo img {
+    display: block;
+    height: auto;
+    height: 450px;
+    width: 750px;
+    max-width: 100%;
+}
